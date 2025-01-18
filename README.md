@@ -1,7 +1,7 @@
 
-# **Monocular Depth Estimation with Uncertainty Quantification**
+# **Monocular Depth Estimation with Uncertainty Quantification and Bayesian Machine Learning**
 
-This project implements a monocular depth estimation model that predicts dense depth maps for each pixel of an RGB image and quantifies uncertainty (aleatoric and epistemic).
+This project applies Bayesian machine learning techniques to monocular depth estimation, using a deep neural network to predict depth maps and quantify uncertainties. 
 ---
 
 ## **Features**
