@@ -3,6 +3,11 @@
 
 This project applies Bayesian machine learning techniques to monocular depth estimation, using a deep neural network to predict depth maps and quantify uncertainties. 
 ---
+![Aleatoric Uncertainty](<Aleatoric Uncertainty.png>)
+
+![Epistemic Uncertainty](<Epistemic Uncertainty.png>)
+
+---
 
 ## **Features**
 - **Depth Prediction**: Predict pixel-wise depth using a convolutional neural network.
@@ -60,11 +65,6 @@ For a given RGB input, the model produces:
 2. **Refined Depth**: Post-processed depth map.
 3. **Aleatoric Uncertainty**: Captures data noise.
 4. **Epistemic Uncertainty**: Captures model uncertainty via MC Dropout.
-
-![Aleatoric Uncertainty](<Aleatoric Uncertainty.png>)
-
-![Epistemic Uncertainty](<Epistemic Uncertainty.png>)
-
 
 ---
 
