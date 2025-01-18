@@ -61,9 +61,9 @@ For a given RGB input, the model produces:
 3. **Aleatoric Uncertainty**: Captures data noise.
 4. **Epistemic Uncertainty**: Captures model uncertainty via MC Dropout.
 
-![Aleatoric Uncertainty](Aleatoric Uncertainty.png)
+![Aleatoric Uncertainty](Monocular-Depth-Estimation/Aleatoric Uncertainty.png)
 
-![Epistemic Uncertainty](Epistemic Uncertainty.png)
+![Epistemic Uncertainty]("Epistemic Uncertainty.png")
 
 
 ---
