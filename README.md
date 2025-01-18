@@ -61,9 +61,10 @@ For a given RGB input, the model produces:
 3. **Aleatoric Uncertainty**: Captures data noise.
 4. **Epistemic Uncertainty**: Captures model uncertainty via MC Dropout.
 
-### **Metrics**
-- **Structural Similarity Index (SSIM)**: \(X.XX\)
-- **Mean Squared Error (MSE)**: \(X.XX\)
+![Aleatoric Uncertainty](Aleatoric Uncertainty.png)
+
+![Epistemic Uncertainty](Epistemic Uncertainty.png)
+
 
 ---
 
